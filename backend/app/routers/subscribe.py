@@ -10,7 +10,7 @@ from ..schemas import SubscribeRequest, SubscribeResponse, UnsubscribeRequest
 from ..services.email_service import _generate_token
 from ..models import DigestSubscription
 
-router = APIRouter(prefix="/subscribe", tags=["subscribe"])
+router = APIRouter(tags=["subscribe"])
 
 
 @router.post("/", response_model=SubscribeResponse)
