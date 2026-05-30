@@ -217,9 +217,6 @@ async def health_check():
             "/chat/",
             "/user/",
             "/analyze/zip/",
-            "/analyze/zip/",
-            "/subscribe/",
-            "/share/",
             "/history/",
         ],
     }
