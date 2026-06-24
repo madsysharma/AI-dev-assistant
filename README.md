@@ -17,13 +17,11 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GSSoC 2026](https://img.shields.io/badge/GSSoC-2026-FF6B35?logoColor=white)](https://gssoc.girlscript.tech)
-
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](Dockerfile)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-supported-4169E1?logo=postgresql&logoColor=white)](docker-compose.yml)
 [![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?logo=pydantic&logoColor=white)](https://docs.pydantic.dev)
 [![Code style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Ruff](https://img.shields.io/badge/lint-ruff-D7FF64?logo=ruff&logoColor=black)](https://github.com/astral-sh/ruff)
-
 [![Open Issues](https://img.shields.io/github/issues/imDarshanGK/AI-dev-assistant)](https://github.com/imDarshanGK/AI-dev-assistant/issues)
 [![Stars](https://img.shields.io/github/stars/imDarshanGK/AI-dev-assistant)](https://github.com/imDarshanGK/AI-dev-assistant/stargazers)
 [![Forks](https://img.shields.io/github/forks/imDarshanGK/AI-dev-assistant)](https://github.com/imDarshanGK/AI-dev-assistant/network/members)
